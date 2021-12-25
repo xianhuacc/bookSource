@@ -5,7 +5,7 @@
     "search": {
         "url": "https://www.8xsk.com/search.html?searchkey=${key}",
 		"charset": "utf-8",
-        "list": "#imgload>ul>",
+        "list": "#imgload>ul",
         "name": "li>a",
         "author": "h3>a",
         "cover": "",
