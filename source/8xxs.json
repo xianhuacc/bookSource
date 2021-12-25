@@ -1,7 +1,7 @@
 {
-    "name": "8xxs",
+    "name": "www.8xsk.com",
     "url": "www.8xsk.com",
-    "version": 102,
+    "version": 103,
     "search": {
         "url": "https://www.8xsk.com/search.html?searchkey=${key}",
 		"charset": "utf-8",
